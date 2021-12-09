@@ -1,0 +1,20 @@
+{
+  "name": "kitty cat #2",
+  "symbol": "ᓚᘏᗢ",
+  "image": "2.png",
+  "collection": {     "name": "Kittycats",     "family": "Kittycats"  },
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "Hqct5kKpxEQ87LhDujtqvjYX2tobGEAGLiXzKdcgTQ7A",
+        "share": 100
+      }
+    ]
+  }
+}
